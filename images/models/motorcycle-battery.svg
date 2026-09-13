@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="280" viewBox="0 0 360 280" role="img" aria-label="Motorcycle battery">
+  <rect width="360" height="280" rx="16" fill="#f4f6fb"/>
+  <rect x="110" y="96" width="140" height="100" rx="10" fill="#0d103a"/>
+  <rect x="138" y="82" width="32" height="18" rx="3" fill="#69727d"/>
+  <rect x="190" y="82" width="32" height="18" rx="3" fill="#cd1512"/>
+  <text x="180" y="154" text-anchor="middle" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">MOTO</text>
+  <text x="180" y="248" text-anchor="middle" fill="#0d103a" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600">Motorcycle battery</text>
+</svg>

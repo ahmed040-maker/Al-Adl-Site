@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="280" viewBox="0 0 360 280" role="img" aria-label="Car battery">
+  <rect width="360" height="280" rx="16" fill="#f4f6fb"/>
+  <rect x="70" y="86" width="220" height="128" rx="12" fill="#0d103a"/>
+  <rect x="118" y="70" width="48" height="22" rx="4" fill="#69727d"/>
+  <rect x="194" y="70" width="48" height="22" rx="4" fill="#cd1512"/>
+  <rect x="88" y="108" width="184" height="70" rx="8" fill="#1a2158"/>
+  <text x="180" y="150" text-anchor="middle" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">12V</text>
+  <text x="180" y="248" text-anchor="middle" fill="#0d103a" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600">Car battery</text>
+</svg>
